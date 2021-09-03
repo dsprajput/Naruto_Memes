@@ -1,0 +1,2 @@
+rootProject.name = "Naruto Memes"
+include ':app'
